@@ -1,2 +1,2 @@
-# Restairant management website
+# Restaurant management website
  
